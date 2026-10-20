@@ -1,0 +1,6 @@
+{
+  "name": "Lumière Events | Luxury Event Planning & Management",
+  "description": "Unforgettable Moments, Flawlessly Executed. Haute couture event planning, design, and management for luxury weddings, corporate galas, and private celebrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
